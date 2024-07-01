@@ -1,0 +1,30 @@
+.header{
+
+    color: blue;
+    font-size: 60px;
+}
+
+.paragraph{
+
+    color: green;
+    font: size 24px;;
+    font-weight: 700;
+}
+.link{
+    text-decoration: none;
+    color: red;
+}
+.btn{
+    background-color: yellow;
+    color: black;
+}
+.card{
+    background-color:rgb(35,35,216);
+    border: 5px solid red;
+    width: 450px;
+    color:wheat;
+    padding:25px;
+}
+.card-img{
+    width:100%;
+}
